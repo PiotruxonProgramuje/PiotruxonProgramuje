@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PiotruxonProgramuje
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++
-- 🎥 You can hop on my YouTube channel! https://www.youtube.com/@Piotruxon2373
+- 🌱 I’m currently learning C++ and Game Hacking!
+- 🎥 You can hop on my YouTube channel! https://www.youtube.com/@PiotruxonCS2
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I started programming when i was 7!
